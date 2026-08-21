@@ -1,6 +1,4 @@
-# Azure Project 9: Implementing Advanced Security Solutions
-
-*Based on: [AWS-GCP-Azure-Cloud-Projects-Workshop, Project 9](https://github.com/NotHarshhaa/AWS-GCP-Azure-Cloud-Projects-Workshop#project-9-implementing-advanced-security-solutions)*
+# Implementing Advanced Security Solutions
 
 ## Status: Complete ✅
 
